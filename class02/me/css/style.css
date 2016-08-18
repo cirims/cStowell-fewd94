@@ -1,0 +1,26 @@
+img {
+	width: 40%;
+	height: auto;
+	border-radius: 50%;
+	display: block;
+	margin: auto;
+}
+
+h1 {
+	color: #D10B69;
+	font-size: 30px;
+	font-family: helvetica;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+p {
+	color: #ED68A7;
+	font-size: 20px;
+	font-family: helvetica;
+	text-align: center;
+}
+
+body {
+	background-color: #FDEDF5;
+}
