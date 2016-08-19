@@ -1,0 +1,15 @@
+#background {
+	background-color: grey;
+	padding:10px;
+}
+#title {
+	background-color: black;
+	color:white;
+	text-align: center;
+	padding:5px;
+}
+
+.content {
+	text-align: center;
+	background-color: red;
+}
