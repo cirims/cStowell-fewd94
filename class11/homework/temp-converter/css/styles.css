@@ -1,0 +1,14 @@
+.container {
+  width: 300px;
+  margin: 0 auto;
+  border: 1px solid black;
+  padding: 10px;
+}
+
+.text-center {
+  text-align: center
+}
+
+#output-temp {
+  font-size: 50px;
+}
